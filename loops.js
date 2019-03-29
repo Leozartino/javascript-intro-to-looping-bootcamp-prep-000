@@ -12,3 +12,4 @@ function whileLoop(n){
     n--;
     console.log(n)
   }
+}
