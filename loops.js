@@ -13,3 +13,5 @@ function whileLoop(n){
     console.log(n)
   }
 }
+
+whileLoop(5)
