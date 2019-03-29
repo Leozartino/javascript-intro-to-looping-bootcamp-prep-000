@@ -29,7 +29,6 @@ function doWhileLoop(num){
 }
 
 
-doWhileLoop(5)
 
 
 
