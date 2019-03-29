@@ -8,5 +8,6 @@ function forLoop(array){
 }
 
 function whileLoop(n){
-  console
+  n++;
+  console.log(n)
 }
