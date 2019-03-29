@@ -14,4 +14,4 @@ function whileLoop(n){
   }
 }
 
-whileLoop(5)
+console.log(whileLoop(5))
